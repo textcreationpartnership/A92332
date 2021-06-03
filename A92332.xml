@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reformados righted. Being an ansvver to a paltry peece of poetry, stiled, General Massey's Bartholomew-Fayrings, for Colonell Poyntz, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92332</idno><idno type="EEBO-CITATION">99862401</idno>
+  <idno type="VID">160490</idno>
+  <idno type="EEBO-PROQUEST">2240950564</idno>
+  
+            <idno type="STC">Wing R738</idno>
+            <idno type="STC">Thomason E406_13</idno>
+            <idno type="STC">ESTC R201919</idno>
+            <idno type="PROQUEST">99862401</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862401e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reformados righted. Being an ansvver to a paltry peece of poetry, stiled, General Massey's Bartholomew-Fayrings, for Colonell Poyntz, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>A reply to: General Masseys Bartholomew-Fairings for Colonell Poyntz, and the London reformadoes (Wing G502).</note>
+                  <note>Annotation on Thomason copy: "7ber 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term type="personal_name">Poyntz, Sydenham.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Poetry --  Early works to 1800.</term>
+               <term type="uniform_title">General Masseys Bartholomew-Fairings for Colonell Poyntz, and the London reformadoes --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160490:1"/>
+            <p>THE REFORMADOS RIGHTED. BEING AN ANSWER TO A paltry peece of Poetry, STILED, GENERALL MASSEY'S <hi>Bartholomew-Fayrings,</hi> FOR Colonell POYNTZ, &amp;c.</p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:160490:2"/>
+            <head>The Reformado's righted.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>Nd yet me thinkes he doth attempt the street</l>
+               <l>As boldl'as he whose provd <hi>Heroick</hi> Feet</l>
+               <l>Trampled on ruin'd <hi>Troy.</hi> Like one oth' race,</l>
+               <l>Whose Feet run perfect in their <hi>Cinquepace.</hi>
+               </l>
+               <l>But O yee <hi>Nine</hi> forgive me that I thus</l>
+               <l>Mistooke the fellow, and his Genius,</l>
+               <l>Alas!
+<note place="margin">See the begin<g ref="char:EOLhyphen"/>ning of the Pamphles.</note>
+                  <hi>'Twas then when as I</hi> but reade ore</l>
+               <l>The foure first words, those made me thirst for more.</l>
+               <l>But O my wish is now that I had first</l>
+               <l>Drunke at thy <hi>Bottle</hi> to have quencht that thirst,</l>
+               <l>Before the loathsome <hi>Inck</hi> had been a tist,</l>
+               <l>And on thy guilty sheet so fouly spilt</l>
+               <l>Thy <hi>Vomit</hi> Homer, were a Cordiall</l>
+               <l>To this blacke potion: how it tasts oth' Gall?</l>
+               <l>How raw this <hi>undigested</hi> Matter lies</l>
+               <l>Upon my <hi>stom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cke?</hi> How I feele it rise?</l>
+               <l>And must disgorge agen, Well, if I doe</l>
+               <l>With it Ile bring up fleame and choller too.</l>
+               <l>But is this all St. <hi>Bartholmew</hi> affoords,</l>
+               <l>A fardle of unprofitable words?</l>
+               <l>A very Pedlers packe indeede it is,</l>
+               <l>A Miscellaneous heape of sentences:</l>
+               <l>An <hi>Independent</hi> R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>psodie of Rimes</l>
+               <l>Flesh't with an <hi>imprimatur</hi> from the Times.</l>
+               <l>'Twill passe this Faire time for a Labell to</l>
+               <l>Some Puppet play some new found Maske or show,</l>
+               <l>A Fairing call y' it? Sure by all the prattle</l>
+               <l>'Tis such a bauble as a Smithfield Rattle;</l>
+               <pb n="3" facs="tcp:160490:2"/>
+               <l>For such indeed I bought it, and it shall</l>
+               <l>Serve for my lighter thoughts to play withall.</l>
+               <l>But what turn'd Poet <hi>Lilburne?</hi> Yes, tis he;</l>
+               <l>T' lookes like his prose slic'd into Poetry.</l>
+               <l>'Twas of his <hi>spinning</hi> sure, only the <hi>scene</hi>
+               </l>
+               <l>Cut into needlefulls; has chang'd his vaine,</l>
+               <l>Or hir'd some <hi>withered</hi> Genius, or him</l>
+               <l>That pen'd the Western Iliads, to trim</l>
+               <l>His rugged Phrase, his Lines with Rimes to tip</l>
+               <l>His syllables with Synalepha's clip,</l>
+               <l>And scarce enough to pare them I protest,</l>
+               <l>Some Lines two foot at least outstrip the rest:</l>
+               <l>Others fall short as far oth' rule;
+<note place="margin">See page the 3. at viz. Oh that we had the In<g ref="char:EOLhyphen"/>dependent Ar<g ref="char:EOLhyphen"/>my by: and a gain at viz. A scarlet Refor<g ref="char:EOLhyphen"/>mado who scarce yet did know: again pag. the 4. al<g ref="char:EOLhyphen"/>most all ore.</note> as though</l>
+               <l>
+                  <hi>Set Formes</hi> in Poesie were sinfull too:</l>
+               <l>Doubtlesse he thought that verse differd from prose,</l>
+               <l>Only in their unevennesse ith' close,</l>
+               <l>And so turn'd Poet with as little paine</l>
+               <l>As ever <hi>Ovid</hi> with his naturall straine.</l>
+               <l>But why my Legislative <hi>Liburne</hi> now</l>
+               <l>So light and triviall growne? So frothy you,</l>
+               <l>You that ere while prescrib'd what you thought meet</l>
+               <l>To governe States by, thus appeare ith' street</l>
+               <l>Amid'st a knot of Ballad Nosers. You,</l>
+               <l>That in a croud of Saints could <hi>nose</hi> it so:</l>
+               <l>Oh, 'tis a Hymne of praise newly compos'd</l>
+               <l>By that sweet singer, and as sweetly nos'd</l>
+               <l>By him, who now in solace overflowes</l>
+               <l>To see the banishment of his two foes</l>
+               <l>
+                  <hi>Massey</hi> and <hi>Pointz:</hi> A hymne that hath been sung</l>
+               <l>The faithfull Congregations all among,</l>
+               <l>A song in consort; base and treble, see,</l>
+               <l>By th' differing Notes in his Typography.</l>
+               <pb n="4" facs="tcp:160490:3"/>
+               <l>His Muse is Dialogicall; behold</l>
+               <l>The fashion of his verse, and then unfold.</l>
+               <l>From his hot braine there rose an angry push,</l>
+               <l>Which prickt, out did this filthy <hi>Matter</hi> gush.</l>
+               <l>'Tis true we'r idle;
+<note place="margin">'T was then when as the name of Mas<g ref="char:EOLhyphen"/>sies force cal<g ref="char:EOLhyphen"/>led all the idle Reformadoes to Horse, &amp;c.</note> but alas! you know</l>
+               <l>You may best call us that have made us so.</l>
+               <l>Ungratefull London! Maist thou never more</l>
+               <l>Finde a friend faithfull; though thou shouldst implore</l>
+               <l>His Aide with teares, and bended knees: May never</l>
+               <l>Successive woes from thy accurst walls sever.</l>
+               <l>Tell me ye poore unworthy spirits there;</l>
+               <l>Is not our blood, our lives to us as deare</l>
+               <l>As is your owne? Could you betray us then,</l>
+               <l>To save your selves? O yee most false of men:</l>
+               <l>Us who prepar'd the Lawrell for the <hi>Brow</hi>
+               </l>
+               <l>Of them who proudly doe usurpe it now.</l>
+               <l>Us who have done, we'r not asham'd to say,</l>
+               <l>As faithfull service to the <hi>State</hi> as they;</l>
+               <l>Us whom ye cal'd into the field to save you</l>
+               <l>From a proud Army purpos'd to enslave you,</l>
+               <l>And you have found it so; you have let in</l>
+               <l>A Trojan <hi>Horse</hi> that shall reward your sin</l>
+               <l>Of treachery; thus you have wound a <hi>wreath</hi>
+               </l>
+               <l>For others Brows, to binde your owne hands with.</l>
+               <l>Was't not enough that first you gave away</l>
+               <l>Our field employments from us, made us stay</l>
+               <l>So long for what we earn'd so long before,</l>
+               <l>Till we had spent it double on the score?</l>
+               <l>But you must now engage us to bereave</l>
+               <l>Our hopes of all subsistance, and to leave</l>
+               <l>Our Carcases to th' mercy of a croud,</l>
+               <l>Under whose cover, so your selves may shroud,</l>
+               <pb n="5" facs="tcp:160490:3"/>
+               <l>Let men of honour perish, and their Name</l>
+               <l>Rot in your service, so they beare your shame.</l>
+               <l>Yet tis not such a poore Pedanticke Muse</l>
+               <l>As this, can our brave <hi>Massies</hi> Fame abuse:</l>
+               <l>Tis not a drop from such a peevish Pen</l>
+               <l>Can blot that Name; but we can clear't agen</l>
+               <l>With Characters indelible, as those</l>
+               <l>That lasting Vellame weares: Our Standish flowes</l>
+               <l>With constant fresh supplies that shall be spent</l>
+               <l>T'repayr th' inscription of his <hi>Monument,</hi>
+               </l>
+               <l>When Age hath slur'd it; may he flourish still,</l>
+               <l>In spite of such a Rimers teethy Quill.</l>
+               <l>Write on, write on, dull Foole, thy gawlfull Inke</l>
+               <l>Shall sooner then the reputation sink</l>
+               <l>Of thy too brave an enemy, to be</l>
+               <l>Wrong'd by the Pen of such a Chouse as thee.</l>
+               <l>But stout <hi>Poyntz</hi> too must have a Lash forsooth;
+<note place="margin">Read pag the 1. His brother P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yntz was strait informd. a youth with goggle eyes and large wry mouth.</note>
+               </l>
+               <l>The Fellow's angry at his eyes and mouth.</l>
+               <l>For shame dull Satyrist, you now <hi>Lash</hi> out</l>
+               <l>Beyond the compasse of your <hi>Whip,</hi> to flowt</l>
+               <l>At Natures Errour: you'd be scourg'd for this</l>
+               <l>With sharper <hi>Whipcord</hi> then a Poets is.</l>
+               <l>And yet I wonder the white-liver'd Poet</l>
+               <l>Durst looke him in the face so long, to know it,</l>
+               <l>And take such notice on't, and not fall dead</l>
+               <l>Under his lookes they carry so much dread.</l>
+               <l>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> see, the foole takes heart, hee's resolute,
+<note place="margin">Read pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>the a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Dialogue betweene Poyntz and the Poet, ob<g ref="char:EOLhyphen"/>served by the variation in the print.</note>
+               </l>
+               <l>And face to face in words, they now fall too't.</l>
+               <l>But yet his colour goes and comes, me hinke,</l>
+               <l>As if his trembling soule appear'd in's I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke:</l>
+               <l>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold sometimes how deepe it lookes, anon</l>
+               <l>If <hi>Poyntz</hi> but speake, the colour's chang'd and gone.</l>
+               <pb n="6" facs="tcp:160490:4"/>
+               <l>The Printer doubtlesse was ingenuous,</l>
+               <l>So aptly to the life to paint him thus.</l>
+               <l>But now his courage comes:
+<note place="margin">Looke page the 3. at viz. Out yee dam<g ref="char:EOLhyphen"/>ned Garlike eating Rogues, d'you thinke you don't al<g ref="char:EOLhyphen"/>ready vent suf<g ref="char:EOLhyphen"/>ficient stinks. But you must call for those will die your skurffes and breeches of the same.</note> his colour rises,</l>
+               <l>Atth' Name o'h 'Army, how he tyrannises</l>
+               <l>O're the dejected Reformado's, with words</l>
+               <l>As lowd as is the Thunder, Jove affoords?</l>
+               <l>Yet see the Poets Thunder <hi>Bolt's</hi> soone <hi>shot,</hi>
+               </l>
+               <l>A <hi>line</hi> or two limits his rage: but what?</l>
+               <l>What foule aspersion, Sirrah, durst you throw</l>
+               <l>On our yet unstayn'd Skarffes? You Varlet, know,</l>
+               <l>Though our Great <hi>Sun,</hi> within blacke <hi>night</hi> be set,</l>
+               <l>Our bright <hi>Aurora</hi> turnd to <hi>Evening;</hi> yet</l>
+               <l>Our colours still retaine their hue, and shall</l>
+               <l>Ev'n in dead <hi>Autumne,</hi> when yours perish all.</l>
+               <l>Although the <hi>Beames</hi> that made us <hi>Tawny,</hi> now</l>
+               <l>Be shut up from us, weel our selves allow</l>
+               <l>Fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh <hi>Skarses</hi> to celebrate his memory,</l>
+               <l>Who though he <hi>died,</hi> could not our hue <hi>undy.</hi>
+               </l>
+               <l>Brave <hi>Essex</hi> is that <hi>Sun,</hi> which yet in vaine</l>
+               <l>You thinke to sully with your inky staine:</l>
+               <l>We have a pen lies dipt in <hi>Leman Lake,</hi>
+               </l>
+               <l>To take out all the staines your <hi>Inke</hi> can make</l>
+               <l>On these pure Skarfes of ours: yes such a pen</l>
+               <l>Whose <hi>sharpnesse</hi> shall make thee looke <hi>sowre</hi> agen.</l>
+               <l>O Sir! you'r merry, wondrous merry now,</l>
+               <l>And so conceited you can quibble too,</l>
+               <l>And in such witty wise, that I protest</l>
+               <l>
+                  <hi>Archy</hi> to thee was but a <hi>Foole</hi> in <hi>Iest:</hi>
+               </l>
+               <l>The bare word <hi>Massie</hi> fits him with a clinch</l>
+               <l>So soveraigne that Name is at a pinch,</l>
+               <l>For all you scorne him so: but we know why;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> an Independent Army by</l>
+               <pb n="7" facs="tcp:160490:4"/>
+               <l>To beare you our, you durst be hang'd as well</l>
+               <l>As write in his disgrace one syllable.</l>
+               <l>But O the times and manners! That a foole,</l>
+               <l>A scurrilous Asse that yet might goe to Schoole</l>
+               <l>And learne to scan a Verse; should undertake</l>
+               <l>To dip his Pen in Castaly, and make</l>
+               <l>Such sottish Rimes would stop the Muses eares,</l>
+               <l>He would be thought a Satyrist by's jeares;</l>
+               <l>But such a one as was <hi>Filistus,</hi> when</l>
+               <l>He undertooke to flout at <hi>Virgills</hi> pen,</l>
+               <l>A <hi>Satyre</hi> rather by his <hi>beastly Feet,</hi>
+               </l>
+               <l>His <hi>ruffe</hi> unpolish't lines, a thing not meet</l>
+               <l>To be ecclip't a Poeme; if you will</l>
+               <l>Call it the <hi>Castings</hi> of a Poets quill.</l>
+               <l>But that so vilde a thing as this should passe</l>
+               <l>The shreets unwhipt; that such a prating Asse</l>
+               <l>Should be thus <hi>licens'd</hi> to abuse and wrong</l>
+               <l>So many men of Honour, in a throng</l>
+               <l>Of Ballad Auditors, attempt the Presse,</l>
+               <l>And boldly vapour in the Printers dresse</l>
+               <l>Through the abused streets; I was asham'd,</l>
+               <l>Nor could I see such rudenesse passe untam'd,</l>
+               <l>Such impudence scape uncorrected. No,</l>
+               <l>Since y' have made kicking we would have you know</l>
+               <l>We can finde <hi>Feet</hi> at hand as well as you,</l>
+               <l>And bring a Muse full as long winded too.</l>
+               <l>May't neare be said that <hi>Massey</hi> wants a Pen</l>
+               <l>Or <hi>Points,</hi> or our deceased <hi>Essex,</hi> (when</l>
+               <l>Such dull deriders shall reproach their Name)</l>
+               <l>To reillustrate their deserved F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</l>
+               <l>Even then, when those for Faine that <hi>thirsty</hi> grow,</l>
+               <l>Shall want a drop of <hi>Inke</hi> to <hi>quench</hi> it; though</l>
+               <pb n="8" facs="tcp:160490:5"/>
+               <l>They now have pul'd the Laurell from the Brow</l>
+               <l>That was its proper <hi>Soile,</hi> and cropt the Bow</l>
+               <l>From off its naturall <hi>Stocke,</hi> and of it made</l>
+               <l>A Garland for themselves: But it must fade,</l>
+               <l>And <hi>Crumwell</hi> must returne againe to brew</l>
+               <l>I'th <hi>Fenny Island,</hi> and forsake his Crew,</l>
+               <l>And <hi>Fairefax</hi> too, retire to's <hi>Frigid Zone,</hi>
+               </l>
+               <l>And our <hi>King Charles</hi> be settled in his <hi>Throne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now thankes my <hi>pedling</hi> Poet for your Fairing,</l>
+               <l>I have made use on't where tis worth the wearing.</l>
+               <l>For since you have accus'd us of ill sent,
+<note place="margin">Read page the 3. at the top.</note>
+               </l>
+               <l>Your sheet our future stinking shall prevent;</l>
+               <l>Or if we thought 'twould vex your patience more,</l>
+               <l>With it wee'd light our <hi>smoake</hi> you so abhorre:
+<note place="margin">Ibidem.</note>
+               </l>
+               <l>At least if <hi>Derricke</hi> don't prevent our Taper,</l>
+               <l>And burn't in <hi>Smithfield</hi> for a Libellous Paper,</l>
+               <l>O how 'twould vexe our Idle Pamphleteer,</l>
+               <l>To see his Fairing executed there:</l>
+               <l>Yet such a punishment too Noble is</l>
+               <l>For senslesse Rimers; let thy doome be this;</l>
+               <l>May never <hi>Reader</hi> henceforth looke for <hi>Thee,</hi>
+               </l>
+               <l>But on a <hi>Whipping Post</hi> or <hi>Pillory.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
